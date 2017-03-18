@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanjar\AndroidStudioProjects\CGXO\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eeb21d4a5101c3bbc51736cdc5862e0db208d197">
+        <dex dex="C:\Users\Sanjar\AndroidStudioProjects\CGXO\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3dbd823ac42a3dcdf7075af05903947384f966f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanjar\AndroidStudioProjects\CGXO\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Sanjar\AndroidStudioProjects\CGXO\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_1cf521dc8449a0ca8d88f715bb41a5640d22aca5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanjar\AndroidStudioProjects\CGXO\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Sanjar\AndroidStudioProjects\CGXO\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_16470deb27421ab3bd9f0ee136dd30694a79640b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanjar\AndroidStudioProjects\CGXO\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Sanjar\AndroidStudioProjects\CGXO\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_50d2db5a6e3d901f8486d41d4d207dc59122f8ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanjar\AndroidStudioProjects\CGXO\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Sanjar\AndroidStudioProjects\CGXO\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_2f9ea5949b0b6ece02a2d5a835b7b486400054cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanjar\AndroidStudioProjects\CGXO\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0b3b2c5d013ed6d085eab7875345d91a99a03478">
+        <dex dex="C:\Users\Sanjar\AndroidStudioProjects\CGXO\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d9d3ff118461df39606d3dbaddcf30dc63b8c3aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Sanjar\AndroidStudioProjects\CGXO\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_146590b62c783c7034d3dda3a350a99b472f2c9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanjar\AndroidStudioProjects\CGXO\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Sanjar\AndroidStudioProjects\CGXO\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_87478d81746315b392142c8a292c8911a742917d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanjar\AndroidStudioProjects\CGXO\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Sanjar\AndroidStudioProjects\CGXO\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3b9f340b1274e088c20a7e614a067baada078612\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanjar\AndroidStudioProjects\CGXO\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Sanjar\AndroidStudioProjects\CGXO\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_073936161075c81c074ac41c216884bc616bb6a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanjar\AndroidStudioProjects\CGXO\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Sanjar\AndroidStudioProjects\CGXO\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_fe6eb989cb8a833064615cae2c6cb2adcff80b9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanjar\AndroidStudioProjects\CGXO\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Sanjar\AndroidStudioProjects\CGXO\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_f6c02d0e8d9f85de00bcf0df3d65db0983dc1a0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanjar\AndroidStudioProjects\CGXO\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Sanjar\AndroidStudioProjects\CGXO\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_c502db3164ff5afa78488a4aa4376fb535d355f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanjar\AndroidStudioProjects\CGXO\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Sanjar\AndroidStudioProjects\CGXO\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_5ec23ab375285d2b191c29bbdf92d528b24972fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanjar\AndroidStudioProjects\CGXO\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Sanjar\AndroidStudioProjects\CGXO\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_f16c82979ad8cd7733e35116cf9976fae6b92bd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanjar\AndroidStudioProjects\CGXO\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Sanjar\AndroidStudioProjects\CGXO\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_724330ca3dafaed01e403f65cb70d65932253fb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanjar\AndroidStudioProjects\CGXO\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Sanjar\AndroidStudioProjects\CGXO\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_8e85ae1c5c5fa6d38fc03af95e90027a1f64e234\classes.dex" />
+    </item>
+
+</items>
